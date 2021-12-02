@@ -36,7 +36,6 @@
     </body>
   </html>
 
-  <a href="">Page 2<Page 2>
 
     <body bgcolor="#000070">
 
