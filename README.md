@@ -7,11 +7,20 @@
     <body>
         <p style = "color:#f9f8fc; font-size:50px;
                 font-style:italic; text-align:center;">
-            Mo's Resume
+            Mayowa Gbadamosi
         </p>
-  
-    </body>
-</html>         
+        <p style = "color:#f9f8fc; font-size:38px;
+                font-style:italic; text-align:center;">
+            The George Washington School of Business
+        </p>
+      </body>
+</html>    
+
+<nav>
+  <a href="file:///Users/momogbadamosi/%3C!DOCTYPE%201%20html%3E.html">About Me</a>
+  <a href="file:///Users/momogbadamosi/%3C!DOCTYPE%202%20html%3E.html">My Resume</a>
+  <a href="file:///Users/momogbadamosi/Contacts.html">Contact Me</a>
+</nav>
 
 
 <!DOCTYPE html>
@@ -36,6 +45,7 @@
     </body>
   </html>
 
+  
 
     <body bgcolor="#000070">
 
